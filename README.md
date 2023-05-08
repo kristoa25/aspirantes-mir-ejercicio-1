@@ -24,4 +24,8 @@ $ git commit -m 'Agrega solución primer ejercicio'
 On branch master
 nothing to commit, working tree clean.
 12.Publicar a Github en un repositorio llamado aspirantes-mir-ejercicio-1:
+kristoa25
+/
+aspirantes-mir-ejercicio-1
+
 
